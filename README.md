@@ -13,7 +13,7 @@ Install bash-completion & git-completion if __git_ps1 is not found on your syste
 ```
 git remote add lkuczera https://github.com/lkuczera/git-training-ug.git
 git checkout master
-git pull lkuczera
+git pull lkuczera master
 ```
 - now is time for fun, resolve conflicts
 
