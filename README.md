@@ -11,7 +11,7 @@ Install bash-completion & git-completion if __git_ps1 is not found on your syste
 
 ** Updating your fork **
 ```
-git remote add lkuczera git@github.com:lkuczera/git-training-ug.git
+git remote add lkuczera https://github.com/lkuczera/git-training-ug.git
 git checkout master
 git pull lkuczera
 ```
