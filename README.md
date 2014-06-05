@@ -1,4 +1,7 @@
 git-training-ug
 ===============
 
-Hacking git for fun and profit!
+Hacking git for fun and profit! - NOPE
+
+
+
