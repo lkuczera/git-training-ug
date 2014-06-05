@@ -12,10 +12,10 @@ Start with:
 
 Install bash-completion & git-completion if __git_ps1 is not found on your system.
 
-<<<<<<< HEAD
+
 Installation:
 https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion
-=======
+
 ** Updating your fork **
 ```
 git remote add lkuczera https://github.com/lkuczera/git-training-ug.git
@@ -31,4 +31,3 @@ git commit -a
 git push origin master 
 ```
 
->>>>>>> 3c94ac9814590a96a995c5a6b576dc31e7f6ef4d
