@@ -3,6 +3,9 @@ git-training-ug
 
 Hacking git for fun and profit!
 
+Essential reading:
+- [Git Pro](http://git-scm.com/book/pl)
+
 Start with:
 - git config --global  push.default current
 - export PS1="\w:\$(__git_ps1)$ "
@@ -23,4 +26,3 @@ git add .
 git commit -a
 git push origin master 
 ```
-
